@@ -1,0 +1,9 @@
+Application state management is state-driven. Here's the enum:
+
+// 0 - Globals
+// 1 - Intro
+// 2 - Menu
+// 3 - Statistics
+// 4 - Pre-Game
+// 5 - Play
+// 6 - Post-Game
